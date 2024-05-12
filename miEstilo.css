@@ -1,0 +1,23 @@
+body {
+    font-family: tahoma;
+    font-size: 14px;
+}
+
+h3,
+h5 {
+    text-align: center;
+}
+
+#centrado {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    display: block;
+}
+
+table th {
+    background-color: #b9c9fe;
+    text-align: left;
+}
